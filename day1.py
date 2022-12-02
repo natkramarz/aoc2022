@@ -1,4 +1,4 @@
-with open("calories.txt") as f:
+with open("tests/day1.txt") as f:
     calories = []
     curr_count = 0 
     for line in f:
